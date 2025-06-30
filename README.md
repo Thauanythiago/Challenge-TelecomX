@@ -37,7 +37,7 @@ Durante a análise, diversos padrões importantes foram identificados:
 
 Esses padrões ajudaram a construir sugestões práticas para manter os clientes por mais tempo e melhorar sua relação com a empresa.
 
-## 💡 Recomendações
+## Recomendações
 
 Com base nos insights da análise, foram feitas as seguintes sugestões:
 
